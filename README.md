@@ -2,6 +2,6 @@
 One of the most fun project to produce. Set the linker and dependencies on your own. 
 
 
-Library used: <br/>
+Libraries used: <br/>
 freeglut : http://freeglut.sourceforge.net <br/>
 GLEW : http://glew.sourceforge.net
