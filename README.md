@@ -1,5 +1,5 @@
 # OpenGL-Project
-Set the linker and dependencies on your own. One of the most fun project to produce.
+One of the most fun project to produce. Set the linker and dependencies on your own. 
 
 
 Library used: <br/>
